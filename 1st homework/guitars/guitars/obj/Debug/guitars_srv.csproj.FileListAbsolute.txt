@@ -1,0 +1,12 @@
+C:\Users\Tudor\source\repos\guitars\guitars\obj\Debug\guitars_srv.csprojResolveAssemblyReference.cache
+C:\Users\Tudor\source\repos\guitars\guitars\obj\Debug\guitars_srv.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\source\repos\guitars\guitars\bin\Debug\guitars.exe
+C:\Users\Tudor\source\repos\guitars\guitars\bin\Debug\guitars.pdb
+C:\Users\Tudor\source\repos\guitars\guitars\obj\Debug\guitars.exe
+C:\Users\Tudor\source\repos\guitars\guitars\obj\Debug\guitars.pdb
+D:\SAVE\guitars_prj\guitars\guitars\bin\Debug\guitars.exe
+D:\SAVE\guitars_prj\guitars\guitars\bin\Debug\guitars.pdb
+D:\SAVE\guitars_prj\guitars\guitars\obj\Debug\guitars_srv.csprojAssemblyReference.cache
+D:\SAVE\guitars_prj\guitars\guitars\obj\Debug\guitars_srv.csproj.CoreCompileInputs.cache
+D:\SAVE\guitars_prj\guitars\guitars\obj\Debug\guitars.exe
+D:\SAVE\guitars_prj\guitars\guitars\obj\Debug\guitars.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tudor\source\repos\guitars\guitars_client\bin\Debug\guitars_client.exe
+C:\Users\Tudor\source\repos\guitars\guitars_client\bin\Debug\guitars_client.pdb
+C:\Users\Tudor\source\repos\guitars\guitars_client\obj\Debug\guitars_client.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\source\repos\guitars\guitars_client\obj\Debug\guitars_client.exe
+C:\Users\Tudor\source\repos\guitars\guitars_client\obj\Debug\guitars_client.pdb
+D:\SAVE\guitars_prj\guitars\guitars_client\bin\Debug\guitars_client.exe
+D:\SAVE\guitars_prj\guitars\guitars_client\bin\Debug\guitars_client.pdb
+D:\SAVE\guitars_prj\guitars\guitars_client\obj\Debug\guitars_client.csprojAssemblyReference.cache
+D:\SAVE\guitars_prj\guitars\guitars_client\obj\Debug\guitars_client.csproj.CoreCompileInputs.cache
+D:\SAVE\guitars_prj\guitars\guitars_client\obj\Debug\guitars_client.exe
+D:\SAVE\guitars_prj\guitars\guitars_client\obj\Debug\guitars_client.pdb
