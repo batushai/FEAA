@@ -1,0 +1,7 @@
+gcloud init
+gcloud components install app-engine-python
+gcloud auth application-default login
+gcloud config set project homework3-241007
+
+deployment:
+gcloud app deploy app.yaml --project homework3-241007 --stop-previous-version
